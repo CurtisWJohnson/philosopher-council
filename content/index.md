@@ -9,7 +9,7 @@ Welcome to a dynamic, Zettelkasten-style exploration of major philosophical, sci
 
 Navigate through the sidebar or graph to explore:
 
-- 👤 **[Personas](./personas/index.md)**: Distinct voices across theory
-- ❓ **[Questions](./questions/index.md)**: Fundamental prompts explored
+- 👤 **[Personas](./meta/Persona-Index.md)**: Distinct voices across theory
+- ❓ **[Questions](./meta/Usage-Dashboard.md)**: Fundamental prompts explored
 - ⚔️ **[Debates](./debates/index.md)**: Simulated dialogues between perspectives
 - 📊 **[Meta](./meta/index.md)**: Rubrics, dashboards, and more

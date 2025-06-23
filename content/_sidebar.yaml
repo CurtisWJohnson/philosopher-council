@@ -1,0 +1,18 @@
+- name: Home
+  href: index.md
+- name: Personas
+  href: personas/index.md
+  generate:
+    folder: personas
+- name: Questions
+  href: questions/index.md
+  generate:
+    folder: questions
+- name: Debates
+  href: debates/index.md
+  generate:
+    folder: debates
+- name: Meta
+  href: meta/index.md
+  generate:
+    folder: meta

@@ -2,7 +2,7 @@
 
 This is a Quartz-based public Zettelkasten vault simulating internal debates between personas with diverse philosophical, scientific, and theological backgrounds.
 
-Visit the live site: https://<your-username>.github.io/philosopher-council/
+Visit the live site: https://curtiswjohnson.github.io/philosopher-council/
 
 ---
 
